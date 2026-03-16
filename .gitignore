@@ -200,6 +200,11 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Project specific - Customer Churn
+data/raw/
+data/processed/
+models/
+reports/predictions.csv
 
 # Marimo
 marimo/_static/
