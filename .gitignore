@@ -201,10 +201,7 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 # Project specific - Customer Churn
-data/raw/
-data/processed/
-models/
-reports/predictions.csv
+
 
 # Marimo
 marimo/_static/
